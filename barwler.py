@@ -1,8 +1,8 @@
 '''
 ##################################################################
-###EP DE RASPAGEM DE DADOS - ESTRUTURA DE DADOS - TURMA A MANHÃ###
 ##################################################################
-#########AUTORES: GUILHERME ERIC E GUSTAVO SANTOS#################
+##################################################################
+#######GUILHERME ERIC, GUSTAVO SANTOS E LEO VIEIRA################
 ##################################################################
 ####EXISTEM MUITOS BARES EM SÃO JOSÉ DOS CAMPOS E REGIÃO E########
 ####NOSSA CABEÇA FICA CONFUSA NA HORA DE ESCOLHER UM BACA-########
